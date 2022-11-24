@@ -1,0 +1,27 @@
+{
+  "name": "cosmos-sdk-ts-recipes",
+  "version": "1.0.0",
+  "description": "This is a collection of recipies for debugging @azure/cosmos package.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure/cosmos-js-sdk-debug-tools.git"
+  },
+  "keywords": [
+    "cosmos",
+    "sdk"
+  ],
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azure/cosmos-js-sdk-debug-tools/issues"
+  },
+  "homepage": "https://github.com/Azure/cosmos-js-sdk-debug-tools#readme",
+  "dependencies": {
+    "@azure/cosmos": "^3.17.2",
+    "@azure/identity": "^3.1.1"
+  }
+}
